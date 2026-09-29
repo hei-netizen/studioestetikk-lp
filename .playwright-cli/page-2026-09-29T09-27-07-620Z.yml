@@ -1,0 +1,307 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - img "Studio estetikk" [ref=f1e3]
+    - generic [ref=f1e4]:
+      - text: Estetisk medisin i Lillestrøm
+      - generic [ref=f1e6]: Ansvarlig lege
+      - generic [ref=f1e8]: Gratis parkering
+  - generic [ref=f1e9]: "– Nye kunder: 20 % rabatt på første behandling · gratis konsultasjon –"
+  - generic [ref=f1e12]:
+    - heading [level=1] [ref=f1e14]:
+      - text: Vil du se friskere ut —
+      - emphasis [ref=f1e15]: uten at noen ser at du har vært hos oss?
+    - generic [ref=f1e16]:
+      - list [ref=f1e17]:
+        - listitem [ref=f1e18]: Naturlige, subtile resultater — aldri «overfylt»
+        - listitem [ref=f1e22]: Alma Harmony XL Pro-laser, injeksjoner og hudforbedring
+        - listitem [ref=f1e26]: Ansvarlig lege godkjenner alle medisinske behandlinger
+      - generic [ref=f1e30]:
+        - generic [ref=f1e31]:
+          - generic [ref=f1e32]: Alltid gratis
+          - img "Estetisk konsultasjon hos Studio estetikk" [ref=f1e33]
+          - generic [ref=f1e34]: Estetisk konsultasjon
+          - generic [ref=f1e35]: uforpliktende · ca. 30 min
+        - generic [ref=f1e36]: +
+        - generic [ref=f1e37]:
+          - generic [ref=f1e38]: Nye kunder
+          - generic [ref=f1e39]: 20 %
+          - generic [ref=f1e40]: på første behandling
+          - generic [ref=f1e41]: valgfri behandling
+      - paragraph [ref=f1e42]: Rabatten beregnes av ordinær pris — gjelder én gang per ny kunde
+    - generic [ref=f1e44]:
+      - generic [ref=f1e45]:
+        - generic [ref=f1e46]: Book gratis konsultasjon
+        - generic [ref=f1e47]: Fyll ut — så ringer Ina deg og finner en time som passer. Tar 30 sekunder.
+      - generic [ref=f1e48]:
+        - generic [ref=f1e49]:
+          - generic [ref=f1e50]: Hva ønsker du å gjøre noe med?
+          - generic [ref=f1e51]:
+            - button "Rynker / fine linjer" [ref=f1e52] [cursor=pointer]
+            - button "Pigmentflekker / solskader" [ref=f1e53] [cursor=pointer]
+            - button "Kviser / arr" [ref=f1e54] [cursor=pointer]
+            - button "Rødme i ansiktet" [ref=f1e55] [cursor=pointer]
+            - button "Fyldigere lepper" [ref=f1e56] [cursor=pointer]
+            - button "Hårfjerning" [ref=f1e57] [cursor=pointer]
+            - button "Tatoveringsfjerning" [ref=f1e58] [cursor=pointer]
+            - button "Usikker — vil ha råd" [ref=f1e59] [cursor=pointer]
+        - generic [ref=f1e60]:
+          - generic [ref=f1e61]: Fornavn og etternavn *
+          - textbox "Fornavn og etternavn *" [ref=f1e63]:
+            - /placeholder: Ditt navn
+        - generic [ref=f1e64]:
+          - generic [ref=f1e65]: Telefonnummer *
+          - generic [ref=f1e66]:
+            - generic [ref=f1e67]: 🇳🇴
+            - textbox "Telefonnummer *" [ref=f1e68]:
+              - /placeholder: Telefonnummer
+        - generic [ref=f1e69]:
+          - generic [ref=f1e70]: E-post *
+          - textbox "E-post *" [ref=f1e72]:
+            - /placeholder: E-post
+        - textbox [ref=f1e73]
+        - button "Book gratis konsultasjon Uforpliktende · 20 % på første behandling" [ref=f1e74] [cursor=pointer]:
+          - generic [ref=f1e75]: Book gratis konsultasjon
+          - generic [ref=f1e79]: Uforpliktende · 20 % på første behandling
+      - generic [ref=f1e80]: Vi deler aldri opplysningene dine med andre. Taushetsplikt.
+  - generic [ref=f1e83]:
+    - generic [ref=f1e85]:
+      - generic [ref=f1e86]:
+        - img "Ina Ekeberg i konsultasjon med kunde hos Studio estetikk" [ref=f1e87]
+        - img "Laserbehandling med Alma Harmony XL Pro" [ref=f1e88]
+        - img "Behandlingsrommet hos Studio estetikk i Lillestrøm" [ref=f1e89]
+        - img "Klinikken i Sørumsgata 29" [ref=f1e90]
+      - button "Forrige" [ref=f1e91] [cursor=pointer]
+      - button "Neste" [ref=f1e94] [cursor=pointer]
+    - generic [ref=f1e102]:
+      - generic [ref=f1e103]: Hvorfor Studio estetikk?
+      - heading "Se like frisk ut som du føler deg" [level=2] [ref=f1e104]
+      - paragraph [ref=f1e105]: Vi ser på helheten og setter sammen behandlinger som gir et varig resultat — et resultat du blir glad i.
+      - list [ref=f1e106]:
+        - listitem [ref=f1e107]:
+          - generic [ref=f1e111]:
+            - heading "Riktig metode — ikke samme laser på alt" [level=4] [ref=f1e112]
+            - paragraph [ref=f1e113]: Alma Harmony XL Pro har flere laserhoder. Vi velger metode etter hva huden din trenger.
+        - listitem [ref=f1e114]:
+          - generic [ref=f1e118]:
+            - heading "Kun behandlinger som er dokumentert å virke" [level=4] [ref=f1e119]
+            - paragraph [ref=f1e120]: Ansvarlig lege Dr. Nimat Andisha godkjenner alle behandlinger med medisiner.
+        - listitem [ref=f1e121]:
+          - generic [ref=f1e125]:
+            - heading "En plan — ikke en quick-fix" [level=4] [ref=f1e126]
+            - paragraph [ref=f1e127]: Vi ser hvilke metoder som trengs, i hvilken rekkefølge, og hvordan de kombineres for best effekt.
+  - generic [ref=f1e129]:
+    - generic [ref=f1e130]: Slutt på å dekke over
+    - heading "Ting du ikke lenger trenger å skjule med sminke…" [level=2] [ref=f1e131]
+    - generic [ref=f1e132]:
+      - generic [ref=f1e133]:
+        - generic [ref=f1e134]: ✕
+        - text: Pigmentflekker, solskader og ujevn hudtone
+      - generic [ref=f1e135]:
+        - generic [ref=f1e136]: ✕
+        - text: Vedvarende rødme og synlige blodkar rundt nesen
+      - generic [ref=f1e137]:
+        - generic [ref=f1e138]: ✕
+        - text: Fine linjer, tap av fasthet og grå, gusten hud
+  - generic [ref=f1e141]:
+    - generic [ref=f1e142]: — Tilbud til nye kunder —
+    - heading "20 % rabatt på din første behandling" [level=2] [ref=f1e143]
+    - paragraph [ref=f1e144]: Start med en gratis, uforpliktende konsultasjon. Velger du å gå videre, får du 20 % på første valgfrie behandling.
+    - generic [ref=f1e145]:
+      - generic [ref=f1e146]: Førstegangsrabatt
+      - generic [ref=f1e147]: → 20 % av ordinær pris · valgfri behandling
+    - link "Book gratis konsultasjon Uforpliktende · vi ringer deg" [ref=f1e149] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=f1e150]: Book gratis konsultasjon
+      - generic [ref=f1e154]: Uforpliktende · vi ringer deg
+    - paragraph [ref=f1e155]: Rabatten beregnes av ordinær pris og kan ikke kombineres med allerede rabatterte priser
+  - generic [ref=f1e157]:
+    - generic [ref=f1e158]:
+      - generic [ref=f1e159]: Gratis for alle nye kunder
+      - heading "Hva skjer på konsultasjonen?" [level=2] [ref=f1e160]
+    - generic [ref=f1e161]:
+      - generic [ref=f1e162]:
+        - paragraph [ref=f1e163]: Vi vil bli godt kjent med deg, dine tidligere behandlinger, helse, mål og ønsker — og være ærlige om hva som er realistisk å oppnå.
+        - list [ref=f1e164]:
+          - listitem [ref=f1e165]:
+            - generic [ref=f1e169]: Gjennomgang av tidligere behandlinger, mål og ønsker
+          - listitem [ref=f1e170]:
+            - generic [ref=f1e174]: Vi ser på huden, ansiktet eller kroppen din — etter hva du ønsker
+          - listitem [ref=f1e175]:
+            - generic [ref=f1e179]: Helsesjekk — vi sjekker at behandlingen er trygg for deg
+          - listitem [ref=f1e180]:
+            - generic [ref=f1e184]: Ærlig vurdering av hva som er mulig å oppnå og hva som skal til
+          - listitem [ref=f1e185]:
+            - generic [ref=f1e189]: Din plan for behandlinger og oppfølging
+        - generic [ref=f1e190]:
+          - generic [ref=f1e191]: "Konsultasjon:"
+          - generic [ref=f1e192]: Gratis · helt uforpliktende
+        - paragraph [ref=f1e193]: Usikker på hvilken behandling du skal ta? Du kan også booke «åpen time».
+      - img "Laserbehandling hos Studio estetikk" [ref=f1e195]
+  - generic [ref=f1e197]:
+    - generic [ref=f1e198]:
+      - generic [ref=f1e199]: Behandlingstilbudet
+      - heading "Hva kan du bruke 20 %-rabatten på?" [level=2] [ref=f1e200]
+      - paragraph [ref=f1e201]: "Rabatten gjelder første valgfrie behandling. Her er de mest populære:"
+    - generic [ref=f1e202]:
+      - generic [ref=f1e203]:
+        - generic [ref=f1e204]: L
+        - heading "Laser — Alma Harmony XL Pro" [level=4] [ref=f1e205]
+        - paragraph [ref=f1e206]: Bedre og strammere hud, pigmentflekker og solskader, rødme, arr etter kviser, fjerning av tatoveringer og hårfjerning.
+        - generic [ref=f1e207]: ClearLift · ClearSkin Pro · Dye-VL · iPixel
+      - generic [ref=f1e208]:
+        - generic [ref=f1e209]: R
+        - heading "Rynkebehandling" [level=4] [ref=f1e210]
+        - paragraph [ref=f1e211]: Glatter ut rynkene du får når du smiler, myser eller rynker pannen — naturlig resultat uten stivt uttrykk. Oppfølgingstime inkludert.
+        - generic [ref=f1e212]: Fra 2 200 kr per område
+      - generic [ref=f1e213]:
+        - generic [ref=f1e214]: F
+        - heading "Fillers" [level=4] [ref=f1e215]
+        - paragraph [ref=f1e216]: Fyldigere lepper, kinn og hake, og mindre hulhet under øynene. Alltid subtilt — målet er å fremheve, ikke forandre.
+        - generic [ref=f1e217]: Lepper fra 2 500 kr
+      - generic [ref=f1e218]:
+        - generic [ref=f1e219]: M
+        - heading "Microneedling" [level=4] [ref=f1e220]
+        - paragraph [ref=f1e221]: Bittesmå stikk får huden til å fornye seg selv. Glattere hud, færre fine linjer, mindre arr og pigmentflekker.
+        - generic [ref=f1e222]: XcellarisPRO · PRF · Exosomer
+      - generic [ref=f1e223]:
+        - generic [ref=f1e224]: S
+        - heading "Skinboostere" [level=4] [ref=f1e225]
+        - paragraph [ref=f1e226]: Dyp fukt, glød og spenst fra innsiden. Ansikt, hals, hender eller bryst.
+        - generic [ref=f1e227]: Profhilo · Sunekos · Jalupro
+      - generic [ref=f1e228]:
+        - generic [ref=f1e229]: B
+        - heading "Biostimulator — fastere hud" [level=4] [ref=f1e230]
+        - paragraph [ref=f1e231]: Jülaine of Sweden — får huden til å bygge seg opp igjen, så den blir fastere over tid. Første klinikk i Lillestrøm som tilbyr det.
+        - generic [ref=f1e232]: Løft og dyp hudforbedring
+    - link "Book gratis konsultasjon Vi hjelper deg å velge riktig" [ref=f1e234] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=f1e235]: Book gratis konsultasjon
+      - generic [ref=f1e239]: Vi hjelper deg å velge riktig
+  - generic [ref=f1e242]:
+    - img "Ina Ekeberg, eier og behandler hos Studio estetikk" [ref=f1e244]
+    - generic [ref=f1e245]:
+      - generic [ref=f1e246]: Hun som tar deg imot
+      - heading "Ina Ekeberg" [level=2] [ref=f1e247]
+      - paragraph [ref=f1e248]: Eier og behandler · Studio estetikk
+      - paragraph [ref=f1e249]: «Varige resultater forutsetter et helhetlig blikk — å se hvilke metoder som trengs, i hvilken rekkefølge, og hvordan de kan stables og kombineres for best effekt. Dette er det vi gjør best!»
+      - list [ref=f1e250]:
+        - listitem [ref=f1e251]: Utdannet kosmetisk behandler ved Amabilis Academy
+        - listitem [ref=f1e255]: Laserspesialist fra Vestfold hudakademi — internasjonalt godkjent i 39 land
+        - listitem [ref=f1e259]: Master i ledelse (BI), bachelor i vernepleie, sertifisert personlig trener
+        - listitem [ref=f1e263]: "Ansvarlig lege: Dr. Nimat Andisha — underviser i estetisk medisin"
+  - generic [ref=f1e268]:
+    - generic [ref=f1e269]:
+      - generic [ref=f1e270]: Ord som varmer
+      - heading "Dette sier kundene våre" [level=2] [ref=f1e271]
+    - generic [ref=f1e272]:
+      - generic [ref=f1e273]:
+        - generic [ref=f1e274]:
+          - generic [ref=f1e275]: ★★★★★
+          - generic [ref=f1e276]: Kundeomtale
+        - heading "«Perfeksjonist med øye for detaljer»" [level=4] [ref=f1e277]
+        - paragraph [ref=f1e278]: En svært dyktig behandler med øye for detaljer. Ina er perfeksjonist og dette kommer tydelig frem i behandlingene hun utfører. Hun forklarer godt, er nøyaktig og opptatt av et naturlig resultat. Jeg følte meg ivaretatt på alle måter og kan varmt anbefale henne videre. Jeg kommer garantert tilbake.
+      - generic [ref=f1e279]:
+        - generic [ref=f1e280]:
+          - generic [ref=f1e281]: ★★★★★
+          - generic [ref=f1e282]: Kundeomtale
+        - heading "«For deg som ønsker det beste»" [level=4] [ref=f1e283]
+        - paragraph [ref=f1e284]: Jeg kan ikke annet enn å anbefale Ina og Studio Estetikk på det varmeste. Jeg som mann som bryr meg om estetikk føler meg komfortabel og godt informert hver gang vi møtes. Det er også mange andre menn som er kunder her og det føles trygt. Dette er ikke et sted for rask & hurtig, dette er for deg som bryr deg om resultat over tid.
+      - generic [ref=f1e285]:
+        - generic [ref=f1e286]:
+          - generic [ref=f1e287]: ★★★★★
+          - generic [ref=f1e288]: Kundeomtale
+        - heading "«Anbefales på det sterkeste»" [level=4] [ref=f1e289]
+        - paragraph [ref=f1e290]: Ina er utrolig dyktig! Hun er veldig opptatt av at man har det bra under hele behandlingen. På toppen av det hele er hun en perfeksjonist, noe som jeg mener er på sin plass med tanke på resultatet man ønsker å oppnå. Jeg vil si meg utrolig godt fornøyd med behandlingen jeg utførte hos Ina.
+  - generic [ref=f1e292]:
+    - generic [ref=f1e293]: Nye kunder
+    - heading "Vil du oppleve forskjellen?" [level=2] [ref=f1e294]
+    - link "Book gratis konsultasjon 20 % på første behandling" [ref=f1e295] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=f1e296]: Book gratis konsultasjon
+      - generic [ref=f1e300]: 20 % på første behandling
+  - generic [ref=f1e302]:
+    - generic [ref=f1e303]:
+      - generic [ref=f1e304]: FAQ
+      - heading "Ofte stilte spørsmål" [level=2] [ref=f1e305]
+    - generic [ref=f1e306]:
+      - group [ref=f1e307]:
+        - generic "Er konsultasjonen uforpliktende? +" [ref=f1e308] [cursor=pointer]:
+          - text: Er konsultasjonen uforpliktende?
+          - generic [ref=f1e309]: +
+        - generic [ref=f1e310]: Ja. Alle konsultasjoner hos oss er helt uforpliktende. Når man skal gjennomføre en behandling er det viktig at man selv er helt sikker på at dette er noe man ønsker, derfor har vi også full forståelse for at man ombestemmer seg.
+      - group [ref=f1e311]:
+        - generic "Hva skjer under konsultasjonen? +" [ref=f1e312] [cursor=pointer]:
+          - text: Hva skjer under konsultasjonen?
+          - generic [ref=f1e313]: +
+      - group [ref=f1e314]:
+        - generic "Kan jeg ta behandling samme dag som konsultasjonen? +" [ref=f1e315] [cursor=pointer]:
+          - text: Kan jeg ta behandling samme dag som konsultasjonen?
+          - generic [ref=f1e316]: +
+      - group [ref=f1e317]:
+        - generic "Hvordan fungerer 20 %-rabatten? +" [ref=f1e318] [cursor=pointer]:
+          - text: Hvordan fungerer 20 %-rabatten?
+          - generic [ref=f1e319]: +
+      - group [ref=f1e320]:
+        - generic "Hva om jeg må avbestille? +" [ref=f1e321] [cursor=pointer]:
+          - text: Hva om jeg må avbestille?
+          - generic [ref=f1e322]: +
+      - group [ref=f1e323]:
+        - generic "Hvordan bestiller jeg? +" [ref=f1e324] [cursor=pointer]:
+          - text: Hvordan bestiller jeg?
+          - generic [ref=f1e325]: +
+  - generic [ref=f1e328]:
+    - generic [ref=f1e329]:
+      - generic [ref=f1e330]: Perfekt beliggenhet
+      - heading "Vi ser frem til å møte deg" [level=2] [ref=f1e331]
+      - paragraph [ref=f1e332]: Du finner oss i Sørumsgata 29 i Lillestrøm, med gratis parkering rett utenfor døren. Trå inn i en oase av medisinsk og estetisk kvalitet. Vår diskresjon, din trygghet.
+      - link "Book gratis konsultasjon 20 % på første behandling" [ref=f1e334] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=f1e335]: Book gratis konsultasjon
+        - generic [ref=f1e339]: 20 % på første behandling
+    - generic [ref=f1e340]:
+      - img "Studio estetikk, Sørumsgata 29, Lillestrøm" [ref=f1e342]
+      - generic [ref=f1e343]:
+        - generic [ref=f1e344]: Studio estetikk
+        - generic [ref=f1e345]:
+          - text: Sørumsgata 29, 2004 Lillestrøm
+          - generic [ref=f1e346]: Gratis parkering rett utenfor døren
+      - generic [ref=f1e347]:
+        - link "Åpne i Google Maps" [ref=f1e348] [cursor=pointer]:
+          - /url: https://www.google.com/maps/search/?api=1&query=Studio+estetikk+S%C3%B8rumsgata+29+Lillestr%C3%B8m
+        - link "Ring 951 79 471" [ref=f1e351] [cursor=pointer]:
+          - /url: tel:+4795179471
+  - contentinfo [ref=f1e352]:
+    - generic [ref=f1e353]:
+      - img "Studio estetikk" [ref=f1e354]
+      - generic [ref=f1e355]:
+        - text: Estetisk medisin i Lillestrøm ·
+        - link "kontakt@studioestetikk.no" [ref=f1e356] [cursor=pointer]:
+          - /url: mailto:kontakt@studioestetikk.no
+        - text: ·
+        - link "951 79 471" [ref=f1e357] [cursor=pointer]:
+          - /url: tel:+4795179471
+      - generic [ref=f1e358]:
+        - text: © 2026 Studio Estetikk AS · org.nr 935 745 454 · Sørumsgata 29, 2004 LillestrømFørstegangsrabatten gjelder nye kunder, én gang, beregnet av ordinær pris ·
+        - link "Personvern" [ref=f1e359] [cursor=pointer]:
+          - /url: https://www.studioestetikk.no/privacy-policy
+  - generic:
+    - dialog:
+      - generic:
+        - button: ✕
+        - generic:
+          - heading [level=3]: Før du går!
+          - paragraph: Sikre deg gratis konsultasjon og 20 % på første behandling
+        - list:
+          - listitem:
+            - generic: Gratis, uforpliktende konsultasjon med Ina
+          - listitem:
+            - generic: 20 % rabatt på første valgfrie behandling
+        - generic:
+          - button:
+            - generic: Gå til skjemaet
+            - generic: Tar 30 sekunder
+          - paragraph:
+            - text: "Eller ring oss direkte:"
+            - link:
+              - /url: tel:+4795179471
+              - text: 951 79 471

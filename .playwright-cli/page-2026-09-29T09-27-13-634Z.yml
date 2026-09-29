@@ -1,0 +1,323 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e2]:
+    - img "Studio estetikk" [ref=f2e3]
+    - generic [ref=f2e4]:
+      - text: Estetisk medisin i Lillestrøm
+      - generic [ref=f2e6]: Ansvarlig lege
+      - generic [ref=f2e8]: Gratis parkering
+  - generic [ref=f2e9]: "– Kampanje: Skinbooster 1 500 kr · ordinær pris 3 000 kr –"
+  - generic [ref=f2e12]:
+    - heading [level=1] [ref=f2e14]:
+      - text: Drømmer du om dyp fukt, glød og
+      - emphasis [ref=f2e15]: fastere hud?
+    - generic [ref=f2e16]:
+      - list [ref=f2e17]:
+        - listitem [ref=f2e18]: Fukt på dypet — der kremen ikke når
+        - listitem [ref=f2e22]: Huden blir fastere og mer spenstig over tid
+        - listitem [ref=f2e26]: Passer alle hudtyper — tilbake i hverdagen samme dag
+      - generic [ref=f2e30]:
+        - generic [ref=f2e31]:
+          - img "Behandlingsrommet hos Studio estetikk" [ref=f2e32]
+          - generic [ref=f2e33]: Skinbooster
+          - generic [ref=f2e34]: ett område · ansikt, hals, hender eller bryst
+        - generic [ref=f2e35]: +
+        - generic [ref=f2e36]:
+          - generic [ref=f2e37]: Halv pris
+          - generic [ref=f2e38]: 1 500 kr
+          - generic [ref=f2e39]: Kampanjepris
+          - generic [ref=f2e40]: ordinær pris 3 000 kr
+      - paragraph [ref=f2e41]: Du sparer 1 500 kr — gratis konsultasjon inkludert · gjelder én gang per kunde
+    - generic [ref=f2e43]:
+      - generic [ref=f2e44]:
+        - generic [ref=f2e45]: Sikre deg kampanjeprisen
+        - generic [ref=f2e46]: Fyll ut — så ringer Ina deg og finner en time som passer. Tar 30 sekunder.
+      - generic [ref=f2e47]:
+        - generic [ref=f2e48]:
+          - generic [ref=f2e49]: Hvilket område vil du behandle?
+          - generic [ref=f2e50]:
+            - button "Ansikt" [ref=f2e51] [cursor=pointer]
+            - button "Hals" [ref=f2e52] [cursor=pointer]
+            - button "Bryst" [ref=f2e53] [cursor=pointer]
+            - button "Hender" [ref=f2e54] [cursor=pointer]
+            - button "Usikker — vil ha råd" [ref=f2e55] [cursor=pointer]
+        - generic [ref=f2e56]:
+          - generic [ref=f2e57]: Fornavn og etternavn *
+          - textbox "Fornavn og etternavn *" [ref=f2e59]:
+            - /placeholder: Ditt navn
+        - generic [ref=f2e60]:
+          - generic [ref=f2e61]: Telefonnummer *
+          - generic [ref=f2e62]:
+            - generic [ref=f2e63]: 🇳🇴
+            - textbox "Telefonnummer *" [ref=f2e64]:
+              - /placeholder: Telefonnummer
+        - generic [ref=f2e65]:
+          - generic [ref=f2e66]: E-post *
+          - textbox "E-post *" [ref=f2e68]:
+            - /placeholder: E-post
+        - textbox [ref=f2e69]
+        - button "Sikre tilbudet 1 500 kr · ordinær pris 3 000 kr" [ref=f2e70] [cursor=pointer]:
+          - generic [ref=f2e71]: Sikre tilbudet
+          - generic [ref=f2e75]: 1 500 kr · ordinær pris 3 000 kr
+      - generic [ref=f2e76]: Trygt og uforpliktende — vi deler aldri opplysningene dine med andre.
+  - generic [ref=f2e79]:
+    - generic [ref=f2e81]:
+      - generic [ref=f2e82]:
+        - img "Konsultasjon før skinbooster hos Studio estetikk" [ref=f2e83]
+        - img "Ina Ekeberg med kunde hos Studio estetikk" [ref=f2e84]
+        - img "Behandlingsrommet hos Studio estetikk i Lillestrøm" [ref=f2e85]
+        - img "Klinikken i Sørumsgata 29" [ref=f2e86]
+      - button "Forrige" [ref=f2e87] [cursor=pointer]
+      - button "Neste" [ref=f2e90] [cursor=pointer]
+    - generic [ref=f2e98]:
+      - generic [ref=f2e99]: Hvorfor skinbooster?
+      - heading "Fukt og glød fra innsiden — ikke volum" [level=2] [ref=f2e100]
+      - paragraph [ref=f2e101]: Til forskjell fra tradisjonelle fillere brukes skinbooster ikke for å bygge volum, men for å gi huden mer fukt, jevnere overflate og mer spenst over tid.
+      - list [ref=f2e102]:
+        - listitem [ref=f2e103]:
+          - generic [ref=f2e107]:
+            - heading "Dyp og langvarig fukt" [level=4] [ref=f2e108]
+            - paragraph [ref=f2e109]: Fuktstoffet hyaluronsyre settes rett inn i huden — dit vanlig krem ikke når.
+        - listitem [ref=f2e110]:
+          - generic [ref=f2e114]:
+            - heading "Hudfornyelse innenfra" [level=4] [ref=f2e115]
+            - paragraph [ref=f2e116]: Får huden til å lage mer av sitt eget kollagen — stoffet som holder huden fast. Resultatet er mer spenstig, jevnere og fastere hud.
+        - listitem [ref=f2e117]:
+          - generic [ref=f2e121]:
+            - heading "Naturlig, frisk glød" [level=4] [ref=f2e122]
+            - paragraph [ref=f2e123]: Gradvis synlige forbedringer etter hver behandling — med stadig bedre hudkvalitet over tid.
+  - generic [ref=f2e125]:
+    - generic [ref=f2e126]: For deg som
+    - heading "Kjenner du deg igjen i dette?" [level=2] [ref=f2e127]
+    - generic [ref=f2e128]:
+      - generic [ref=f2e129]:
+        - generic [ref=f2e130]: ✕
+        - text: Huden føles tørr og stram, uansett hvor mye krem du bruker
+      - generic [ref=f2e131]:
+        - generic [ref=f2e132]: ✕
+        - text: Fine linjer og tidlige aldringstegn har begynt å vise seg
+      - generic [ref=f2e133]:
+        - generic [ref=f2e134]: ✕
+        - text: Huden har mistet spenst og er blitt slappere
+      - generic [ref=f2e135]:
+        - generic [ref=f2e136]: ✕
+        - text: Ujevn hudtone og hud preget av solskader
+  - generic [ref=f2e139]:
+    - generic [ref=f2e140]: — Ta fordel av tilbudet i dag —
+    - heading "Skinbooster til halv pris — 1 500 kr" [level=2] [ref=f2e141]
+    - paragraph [ref=f2e142]: Ett område etter eget valg — ansikt, hals, hender eller bryst — med gratis konsultasjon i forkant. Ordinær pris 3 000 kr.
+    - generic [ref=f2e143]:
+      - generic [ref=f2e144]: Du sparer
+      - generic [ref=f2e145]: → 1 500 kr
+    - link "Sikre deg tilbudet Kampanjen gjelder kun via denne siden" [ref=f2e147] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=f2e148]: Sikre deg tilbudet
+      - generic [ref=f2e152]: Kampanjen gjelder kun via denne siden
+    - paragraph [ref=f2e153]: Gjelder én gang per kunde · kan ikke kombineres med andre rabatter
+  - generic [ref=f2e155]:
+    - generic [ref=f2e156]:
+      - generic [ref=f2e157]: Alt inkludert
+      - heading "Dette får du for 1 500 kr" [level=2] [ref=f2e158]
+    - generic [ref=f2e159]:
+      - generic [ref=f2e160]:
+        - generic [ref=f2e164]:
+          - generic [ref=f2e165]: Skinbooster — ett område
+          - generic [ref=f2e166]: Fuktstoffet hyaluronsyre i ansikt, hals, hender eller bryst. Fukt, glød og fastere hud.
+        - generic [ref=f2e167]:
+          - text: Ordinært
+          - generic [ref=f2e168]: 3 000 kr
+      - generic [ref=f2e169]:
+        - generic [ref=f2e173]:
+          - generic [ref=f2e174]: Estetisk konsultasjon
+          - generic [ref=f2e175]: Vi ser på huden din og tidligere behandlinger, og sjekker at behandlingen er trygg for deg.
+        - generic [ref=f2e176]:
+          - text: Alltid
+          - generic [ref=f2e177]: Gratis
+      - generic [ref=f2e178]:
+        - generic [ref=f2e182]:
+          - generic [ref=f2e183]: Råd for tiden etterpå
+          - generic [ref=f2e184]: Du får konkrete råd om hvordan du tar vare på huden etterpå, så resultatet varer lenger.
+        - generic [ref=f2e185]:
+          - text: Inkludert
+          - generic [ref=f2e186]: ✓
+      - generic [ref=f2e187]:
+        - generic [ref=f2e188]: Ordinær pris
+        - generic [ref=f2e189]: 3 000 kr
+      - generic [ref=f2e190]:
+        - text: Din pris i dag
+        - generic [ref=f2e191]: 1 500,-
+        - generic [ref=f2e192]: Du sparer 1 500 kr — halv pris
+        - generic [ref=f2e193]: Kampanjetilbud — gjelder én gang per kunde
+        - link "Sikre deg tilbudet Tar 30 sekunder" [ref=f2e195] [cursor=pointer]:
+          - /url: "#top"
+          - generic [ref=f2e196]: Sikre deg tilbudet
+          - generic [ref=f2e200]: Tar 30 sekunder
+  - generic [ref=f2e202]:
+    - generic [ref=f2e203]:
+      - generic [ref=f2e204]: Slik er besøket
+      - heading "Hva kan du forvente på besøket?" [level=2] [ref=f2e205]
+      - paragraph [ref=f2e206]: Vi tar oss tid til konsultasjon først, slik at du vet hva du går til — og får råd tilpasset akkurat din hud.
+    - generic [ref=f2e207]:
+      - img "Ina Ekeberg med kunde hos Studio estetikk" [ref=f2e209]
+      - generic [ref=f2e210]:
+        - generic [ref=f2e211]: Fire steg
+        - heading "Trygt, presist og skånsomt" [level=2] [ref=f2e212]
+        - list [ref=f2e213]:
+          - listitem [ref=f2e214]:
+            - generic [ref=f2e218]:
+              - heading "01 · Konsultasjon" [level=4] [ref=f2e219]
+              - paragraph [ref=f2e220]: Vi går gjennom huden din, helse, tidligere behandlinger og hva du ønsker å oppnå.
+          - listitem [ref=f2e221]:
+            - generic [ref=f2e225]:
+              - heading "02 · Forberedelse" [level=4] [ref=f2e226]
+              - paragraph [ref=f2e227]: Området renses, og vi kan bruke bedøvelseskrem om du ønsker det.
+          - listitem [ref=f2e228]:
+            - generic [ref=f2e232]:
+              - heading "03 · Skinbooster" [level=4] [ref=f2e233]
+              - paragraph [ref=f2e234]: Små stikk der huden trenger det — for eksempel langs kjeven, på kinnene, rundt munnen, på halsen eller brystet.
+          - listitem [ref=f2e235]:
+            - generic [ref=f2e239]:
+              - heading "04 · Plan og råd" [level=4] [ref=f2e240]
+              - paragraph [ref=f2e241]: Du får råd for tiden etterpå og en plan hvis du trenger flere behandlinger.
+  - generic [ref=f2e243]:
+    - generic [ref=f2e244]:
+      - generic [ref=f2e245]: Hvem passer det for?
+      - heading "For deg som vil ha naturlig glød" [level=2] [ref=f2e246]
+      - paragraph [ref=f2e247]: Skinbooster passer for alle hudtyper, aldre og kjønn, og kan brukes i ansikt, under øyne, på hals, hender og bryst.
+    - list [ref=f2e248]:
+      - listitem [ref=f2e249]:
+        - heading "Fukt på dypet, ikke bare på overflaten" [level=4] [ref=f2e254]
+      - listitem [ref=f2e255]:
+        - heading "Mer spenstig og jevnere hud" [level=4] [ref=f2e260]
+      - listitem [ref=f2e261]:
+        - heading "Tilbake til vanlig hverdag samme dag" [level=4] [ref=f2e266]
+      - listitem [ref=f2e267]:
+        - heading "Naturlig, gradvis resultat — aldri «gjort»" [level=4] [ref=f2e272]
+    - link "Sikre deg tilbudet 1 500 kr · ordinær pris 3 000 kr" [ref=f2e274] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=f2e275]: Sikre deg tilbudet
+      - generic [ref=f2e279]: 1 500 kr · ordinær pris 3 000 kr
+  - generic [ref=f2e281]:
+    - generic [ref=f2e282]:
+      - generic [ref=f2e283]: Ord som varmer
+      - heading "Dette sier kundene våre" [level=2] [ref=f2e284]
+    - generic [ref=f2e285]:
+      - generic [ref=f2e286]:
+        - generic [ref=f2e287]:
+          - generic [ref=f2e288]: ★★★★★
+          - generic [ref=f2e289]: Kundeomtale
+        - heading "«Perfeksjonist med øye for detaljer»" [level=4] [ref=f2e290]
+        - paragraph [ref=f2e291]: En svært dyktig behandler med øye for detaljer. Ina er perfeksjonist og dette kommer tydelig frem i behandlingene hun utfører. Hun forklarer godt, er nøyaktig og opptatt av et naturlig resultat. Jeg følte meg ivaretatt på alle måter og kan varmt anbefale henne videre.
+      - generic [ref=f2e292]:
+        - generic [ref=f2e293]:
+          - generic [ref=f2e294]: ★★★★★
+          - generic [ref=f2e295]: Kundeomtale
+        - heading "«For deg som ønsker det beste»" [level=4] [ref=f2e296]
+        - paragraph [ref=f2e297]: Jeg kan ikke annet enn å anbefale Ina og Studio Estetikk på det varmeste. Jeg som mann som bryr meg om estetikk føler meg komfortabel og godt informert hver gang vi møtes. Dette er ikke et sted for rask & hurtig, dette er for deg som bryr deg om resultat over tid.
+      - generic [ref=f2e298]:
+        - generic [ref=f2e299]:
+          - generic [ref=f2e300]: ★★★★★
+          - generic [ref=f2e301]: Kundeomtale
+        - heading "«Anbefales på det sterkeste»" [level=4] [ref=f2e302]
+        - paragraph [ref=f2e303]: Ina er utrolig dyktig! Hun er veldig opptatt av at man har det bra under hele behandlingen. På toppen av det hele er hun en perfeksjonist, noe som jeg mener er på sin plass med tanke på resultatet man ønsker å oppnå.
+  - generic [ref=f2e305]:
+    - generic [ref=f2e306]: Begrenset mulighet
+    - heading "Gi huden dyp fukt og glød" [level=2] [ref=f2e307]
+    - link "Sikre deg tilbudet 1 500 kr · halv pris" [ref=f2e308] [cursor=pointer]:
+      - /url: "#top"
+      - generic [ref=f2e309]: Sikre deg tilbudet
+      - generic [ref=f2e313]: 1 500 kr · halv pris
+  - generic [ref=f2e315]:
+    - generic [ref=f2e316]:
+      - generic [ref=f2e317]: FAQ
+      - heading "Ofte stilte spørsmål" [level=2] [ref=f2e318]
+      - paragraph [ref=f2e319]: Lurer du på noe annet? Ta gjerne kontakt, så svarer vi før du booker.
+    - generic [ref=f2e320]:
+      - group [ref=f2e321]:
+        - generic "Hva er skinbooster? +" [ref=f2e322] [cursor=pointer]:
+          - text: Hva er skinbooster?
+          - generic [ref=f2e323]: +
+        - generic [ref=f2e324]: En behandling der vi med små stikk setter fuktstoffet hyaluronsyre rett inn i huden — dit vanlig krem ikke når. Huden blir mer spenstig, får mer glød og en friskere farge. Skinbooster bygger ikke volum slik fillere gjør.
+      - group [ref=f2e325]:
+        - generic "Gjør det vondt? +" [ref=f2e326] [cursor=pointer]:
+          - text: Gjør det vondt?
+          - generic [ref=f2e327]: +
+      - group [ref=f2e328]:
+        - generic "Er det nedetid? +" [ref=f2e329] [cursor=pointer]:
+          - text: Er det nedetid?
+          - generic [ref=f2e330]: +
+      - group [ref=f2e331]:
+        - generic "Hvordan forbereder jeg meg? +" [ref=f2e332] [cursor=pointer]:
+          - text: Hvordan forbereder jeg meg?
+          - generic [ref=f2e333]: +
+      - group [ref=f2e334]:
+        - generic "Hvor mange behandlinger trenger jeg? +" [ref=f2e335] [cursor=pointer]:
+          - text: Hvor mange behandlinger trenger jeg?
+          - generic [ref=f2e336]: +
+      - group [ref=f2e337]:
+        - generic "Hva dekker kampanjeprisen? +" [ref=f2e338] [cursor=pointer]:
+          - text: Hva dekker kampanjeprisen?
+          - generic [ref=f2e339]: +
+      - group [ref=f2e340]:
+        - generic "Hva om jeg må avbestille? +" [ref=f2e341] [cursor=pointer]:
+          - text: Hva om jeg må avbestille?
+          - generic [ref=f2e342]: +
+      - group [ref=f2e343]:
+        - generic "Hvordan bestiller jeg? +" [ref=f2e344] [cursor=pointer]:
+          - text: Hvordan bestiller jeg?
+          - generic [ref=f2e345]: +
+  - generic [ref=f2e348]:
+    - generic [ref=f2e349]:
+      - generic [ref=f2e350]: Her finner du oss
+      - heading "Sørumsgata 29, Lillestrøm" [level=2] [ref=f2e351]
+      - paragraph [ref=f2e352]: Gratis parkering rett utenfor døren. Trå inn i en oase av medisinsk og estetisk kvalitet. Vår diskresjon, din trygghet.
+      - link "Sikre deg tilbudet 1 500 kr · ordinær pris 3 000 kr" [ref=f2e354] [cursor=pointer]:
+        - /url: "#top"
+        - generic [ref=f2e355]: Sikre deg tilbudet
+        - generic [ref=f2e359]: 1 500 kr · ordinær pris 3 000 kr
+    - generic [ref=f2e360]:
+      - img "Studio estetikk, Sørumsgata 29, Lillestrøm" [ref=f2e362]
+      - generic [ref=f2e363]:
+        - generic [ref=f2e364]: Studio estetikk
+        - generic [ref=f2e365]:
+          - text: Sørumsgata 29, 2004 Lillestrøm
+          - generic [ref=f2e366]: Gratis parkering rett utenfor døren
+      - generic [ref=f2e367]:
+        - link "Åpne i Google Maps" [ref=f2e368] [cursor=pointer]:
+          - /url: https://www.google.com/maps/search/?api=1&query=Studio+estetikk+S%C3%B8rumsgata+29+Lillestr%C3%B8m
+        - link "Ring 951 79 471" [ref=f2e371] [cursor=pointer]:
+          - /url: tel:+4795179471
+  - contentinfo [ref=f2e372]:
+    - generic [ref=f2e373]:
+      - img "Studio estetikk" [ref=f2e374]
+      - generic [ref=f2e375]:
+        - text: Estetisk medisin i Lillestrøm ·
+        - link "kontakt@studioestetikk.no" [ref=f2e376] [cursor=pointer]:
+          - /url: mailto:kontakt@studioestetikk.no
+        - text: ·
+        - link "951 79 471" [ref=f2e377] [cursor=pointer]:
+          - /url: tel:+4795179471
+      - generic [ref=f2e378]:
+        - text: © 2026 Studio Estetikk AS · org.nr 935 745 454 · Sørumsgata 29, 2004 LillestrømKampanjen gjelder én gang per kunde, ett område, kan ikke kombineres med andre rabatter ·
+        - link "Personvern" [ref=f2e379] [cursor=pointer]:
+          - /url: https://www.studioestetikk.no/privacy-policy
+  - generic:
+    - dialog:
+      - generic:
+        - button: ✕
+        - generic:
+          - heading [level=3]: Før du går!
+          - paragraph: Sikre deg skinbooster til halv pris
+        - list:
+          - listitem:
+            - generic: Skinbooster ett område 1 500 kr — ordinær pris 3 000 kr
+          - listitem:
+            - generic: Gratis konsultasjon inkludert
+        - generic:
+          - button:
+            - generic: Gå til skjemaet
+            - generic: Tar 30 sekunder
+          - paragraph:
+            - text: "Eller ring oss direkte:"
+            - link:
+              - /url: tel:+4795179471
+              - text: 951 79 471
